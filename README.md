@@ -50,17 +50,6 @@ Reports can be exported as PDF documents containing:
 - Individual advisor reports (one section per advisor)
 - Final consolidated report
 
-## Technology Stack
-
-| Technology | Purpose |
-|-----------|---------|
-| **LangChain / LangGraph** | Agent orchestration, state management, parallel execution |
-| **OpenAI GPT** | LLM for all advisor agents |
-| **Gradio** | Web-based chatbot GUI |
-| **fpdf2** | PDF report generation |
-| **python-dotenv** | Environment variable management |
-| **LangSmith** | Optional tracing and monitoring |
-
 ## Project Structure
 
 ```
@@ -183,7 +172,7 @@ pytest tests/ -v
 
 ---
 
-## AI Skills & Techniques Demonstrated
+## Tech Stack
 
 | Skill | Description |
 |-------|-------------|
