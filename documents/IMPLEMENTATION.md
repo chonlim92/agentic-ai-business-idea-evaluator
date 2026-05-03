@@ -1,5 +1,7 @@
 # Implementation
 
+**Author: Chong Kiat Lim**
+
 ## Architecture Overview
 
 The Business Idea Evaluator is built using a multi-agent architecture powered by LangGraph. The system uses multiple expert AI agents that work in parallel to evaluate business ideas from different perspectives.

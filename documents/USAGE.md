@@ -1,5 +1,7 @@
 # Usage Guide
 
+**Author: Chong Kiat Lim**
+
 ## Prerequisites
 
 1. Python 3.10+
